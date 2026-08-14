@@ -100,7 +100,5 @@ python generate_isms_report.py report.pdf \
 
 ### 최종 결과 보고서 스크린샷
 
-
-
-![ISMS-P 결과보고서](ISMS-P_결과보고서_스크린샷.png)
+<img src="ISMS-P_결과보고서_스크린샷.png" width="600">
 
