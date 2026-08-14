@@ -102,5 +102,5 @@ python generate_isms_report.py report.pdf \
 
 
 
-![ISMS-P 결과보고서](ISMS-P_%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C_%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7.png)
+![ISMS-P 결과보고서](ISMS-P_결과보고서_스크린샷.png)
 
