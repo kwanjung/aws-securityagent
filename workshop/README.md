@@ -96,7 +96,7 @@ python generate_isms_report.py report.pdf \
 
 
 
-![실행 화면](screenshot_run_isms_report.png)
+<img src="screenshot_run_isms_report.png" width="600">
 
 ### 최종 결과 보고서 스크린샷
 
